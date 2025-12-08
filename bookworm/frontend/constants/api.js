@@ -1,0 +1,1 @@
+export const API_URL = ProcessingInstruction.env.API_URL;
